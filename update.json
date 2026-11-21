@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/katilraj302-cpu/plywood-margin-updates/releases/download/v1.2/PlywoodMarginCalculator.apk",
-  "notes": "Naya app icon aur UI polish."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/katilraj302-cpu/plywood-margin-updates/releases/download/v1.3/PlywoodMarginCalculator.apk",
+  "notes": "Update checker fix: multiple sources + better reliability."
 }
