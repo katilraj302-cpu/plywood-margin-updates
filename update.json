@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/katilraj302-cpu/plywood-margin-updates/releases/download/v1.4/PlywoodMarginCalculator.apk",
-  "notes": "Pieces input fix: ab 0 se clear aur 19 jaise number sahi enter honge."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/katilraj302-cpu/plywood-margin-updates/releases/download/v1.5/PlywoodMarginCalculator.apk",
+  "notes": "Update button fix: ab external browser me APK link open hoga."
 }
